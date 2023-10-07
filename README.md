@@ -2,10 +2,9 @@
 
 ## Description
 
-In this project, 
-The goal of this project was to use **Python** to collect, explore and manipulate data about something which is of great interest to me: housing information in Paris. I took upon me the challenge of doing a **WebScraping** onto the rental listing site **BienIci**.
+In this project, **SQL** was used to explore datasets, from French railway company SNCF, which contains information about lost and found items in almost all the train stations in France. These datasets are available at the open-source website from the company, found <a href="https://data.sncf.com/explore/?sort=modified" title="Download" download>here fr</a>.
+After exploring and a bit of manipulation, the data was exported to a csv file and further manipulated in **Power BI**. Some new temporary tables and aggregate functions where used with the help of **PowerQuery**. Then, the data was visualized.
 
-I used **Python**, especially the packages <b/>BeautifulSoup<b/> and <b/>Pandas<b/>, to do a **WebScraping** of the housing information in Paris. After collecting the data, I used **Pandas** to **explore and manipulate the usable information** and, with the help of the dataframes, I could store and export all the information to a csv file. This csv file was used in the **Power BI** software in order to better **visualize** the collected data.
 
 ## Softwares
 
@@ -14,7 +13,7 @@ I used **Python**, especially the packages <b/>BeautifulSoup<b/> and <b/>Pandas<
 
 ## Code
 
-In order to not pollute this repository, I left the program used in the repository files, which I invite you to take a look. The jupyter notebook file presents you with the code and the direct results, which could be a bit overwhelming, so I also made the python file available, which only presents the code.
+In order to not pollute this repository, I left the program used in the repository files, which I invite you to take a look. 
 
 ## Power BI result
 
